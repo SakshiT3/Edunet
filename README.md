@@ -1,7 +1,7 @@
 # Edunet
 Front end of an Education Website using HTML, CSS and Javascript.
 
-#Tech Stack Used
+# Tech Stack Used
 -HTML
 -CSS
 -Javascript
